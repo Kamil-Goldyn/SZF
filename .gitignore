@@ -1,0 +1,41 @@
+# Maven
+/target/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/logging.properties
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# VS Code
+.vscode/
+
+# System plików
+.DS_Store
+Thumbs.db
+
+# Spring Boot DevTools
+spring.log
+
+# Pliki tymczasowe Java
+*.class
+
+# Pliki logów
+*.log
+
+# Pliki baz danych H2 lokalnie
+*/data.mv.db
+*/data.trace.db
+
+# Pakiety
+node_modules/
+
+# Build output (jeśli np. frontend w przyszłości)
+frontend/dist/
+/frontend/node_modules/
+
+# Pliki konfiguracyjne środowiska
+.env

@@ -1,9 +1,9 @@
 # Maven
-/target/
-/pom.xml.tag
-/pom.xml.releaseBackup
-/pom.xml.versionsBackup
-/logging.properties
+/backend/target/
+/backend/pom.xml.tag
+/backend/pom.xml.releaseBackup
+/backend/pom.xml.versionsBackup
+/backend/logging.properties
 
 # IntelliJ IDEA
 /.idea/
